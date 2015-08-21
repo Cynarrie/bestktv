@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    /*background-color: #f05f40;*/
 }
 
 .bg-dark {
@@ -178,7 +178,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url(http://bestktv.com/upload/129440724074492712.JPG);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
