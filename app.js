@@ -1,5 +1,5 @@
-var port = (process.env.PORT || process.env.VMC_APP_PORT);
-var host = (process.env.IP || process.env.VCAP_APP_HOST);
+var port = (process.env.PORT || OPENSHIFT_NODEJS_PORT);
+var host = (process.env.IP || OPENSHIFT_NODEJS_IP);
 
 var express = require('express');
 var app = express();
