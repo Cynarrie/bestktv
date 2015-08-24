@@ -1,8 +1,0 @@
-{
-    "name": "bestktv",
-	"repository": "git@github.com:Cynarrie/bestktv.git",
-    "dependencies": {
-        "express": 	"4.13.3"
-    },
-	"main": "server"
-}
